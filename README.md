@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shaswata
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning full stack 
+- 🌱 I’m currently Artificial Intelligence, Machine Learning & Deep Learning 
 - 📫 You can drop your massage here shaswatabaruait@gmail
 
 <!---
